@@ -1,0 +1,23 @@
+<resources>
+    <string-array name="manufacturer_array">
+        <item>Volvo</item>
+        <item>Mini</item>
+        <item>Volkswagen</item>
+    </string-array>
+
+    <string-array name="description_array">
+        <item>Volvo Car Corporation is Swedish premium automobile maker</item>
+        <item>Mini is a small economy car made by British Motor Corporation</item>
+        <item>Volkswagen is German car company headquartered in Wolfsburg</item>
+    </string-array>
+
+    <string name="app_name">Lab03part01 - Vehicle App</string>
+    <string name="button_petrol_car">Create Petrol Car</string>
+    <string name="button_diesel_car">Create Diesel Car</string>
+    <string name="menu_add">Add to list</string>
+    <string name="menu_clear">Clear list</string>
+    <string name="action_settings">Settings</string>
+    <integer name="depreciation">80</integer>
+
+
+</resources>
